@@ -1,0 +1,87 @@
+        .icon {
+            background-image: url('/assets/images/svg/sprite-d675eadb.svg');
+        }
+
+    .icon--clear-view-escapes{
+        height:59.53px;
+        width:142.4px;
+        display: block;
+        background-position: 0 0;
+    }
+
+    .icon--comment{
+        height:64px;
+        width:64px;
+        display: block;
+        background-position: 99.70443349753694% 0;
+    }
+
+    .icon--facebook{
+        height:42.01px;
+        width:21.23px;
+        display: block;
+        background-position: 26.040607071652357% 45.795830448496034%;
+    }
+
+    .icon--fire{
+        height:64px;
+        width:56px;
+        display: block;
+        background-position: 0 99.56481481481481%;
+    }
+
+    .icon--globe{
+        height:64px;
+        width:64px;
+        display: block;
+        background-position: 27.586206896551722% 99.56481481481481%;
+    }
+
+    .icon--instagram{
+        height:42.01px;
+        width:42.01px;
+        display: block;
+        background-position: 63.2917018534157% 49.234556504346486%;
+    }
+
+    .icon--mail{
+        height:48px;
+        width:64px;
+        display: block;
+        background-position: 0 48.00806451612903%;
+    }
+
+    .icon--rain{
+        height:64px;
+        width:64px;
+        display: block;
+        background-position: 99.70443349753694% 59.25925925925926%;
+    }
+
+    .icon--star{
+        height:64px;
+        width:64px;
+        display: block;
+        background-position: 59.11330049261084% 99.56481481481481%;
+    }
+
+    .icon--twitter{
+        height:42.06px;
+        width:51.78px;
+        display: block;
+        background-position: 94.04330452560171% 98.50700323226104%;
+    }
+
+    .icon--wifi{
+        height:64px;
+        width:60px;
+        display: block;
+        background-position: 68.79227053140097% 0;
+    }
+
+    .icon--youtube{
+        height:42px;
+        width:34.75px;
+        display: block;
+        background-position: 36.69752421959096% 45.792307692307695%;
+    }

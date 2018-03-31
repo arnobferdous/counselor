@@ -1,0 +1,14 @@
+{{#shapes}}
+    {{#first}}
+        .icon {
+            background-image: url('/assets/images/{{{sprite}}}');
+        }
+    {{/first}}
+
+    .icon--{{base}}{
+        height:{{height.outer}}px;
+        width:{{width.outer}}px;
+        display: block;
+        background-position: {{ position.relative.xy }};
+    }
+{{/shapes}}
