@@ -12,3 +12,12 @@ Used plugins
   - Mixins: Yes, pretty awesome for media screens.
   - Autoprefixer: Made CSS cross browser supported.
   - Browser Sync: Oh yes, it really helps to save time and synchronize the workflow magically!
+  
+ Installation / Uses:
+ --------------------
+ - Clone the repository
+ - Commands: 
+   - npm install
+   - gulp
+   
+ Awesome! You are ready to fly!
