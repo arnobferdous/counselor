@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Campton Light';
+    src: local('Campton Light DEMO'), local('Campton-LightDEMO'),
+        url('../fonts/Campton-LightDEMO.woff2') format('woff2'),
+        url('../fonts/Campton-LightDEMO.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Campton Book';
+    src: local('Campton Bold DEMO'), local('Campton-BoldDEMO'),
+        url('../fonts/Campton-BoldDEMO.woff2') format('woff2'),
+        url('../fonts/Campton-BoldDEMO.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}

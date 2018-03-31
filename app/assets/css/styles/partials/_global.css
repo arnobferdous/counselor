@@ -1,0 +1,18 @@
+body {
+    font-family: "Campton Light", sans-serif;
+    height: 1200px;
+}
+.header {
+    background-color: $mainBackground;
+    min-height: 30px;
+
+    &__title {
+         font-size: 1.3rem;
+         color: $colorWhite;
+         padding: 12px 5px 5px 5px;
+
+        @mixin atSmall {
+            font-size: 1.5rem;
+        }
+    }
+}
