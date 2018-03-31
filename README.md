@@ -1,4 +1,4 @@
-# Counselor
+# Counselor - A boilerplate for frontend developers
 Used plugins
 -------------
 - NodeJS for NPM packages 
