@@ -11,6 +11,10 @@ watch = require('gulp-watch');
 gulp.task('styles', function(){
     return gulp.src('./app/assets/css/styles/style.css')
         .pipe(postcss([cssimport,mixins,cssvars,cssnested,autoprefixer()]))
+        .on('error', function (errorInfo) {
+            console.log(errorInfo.toString());
+            this.emit('end');
+        })
         .pipe(gulp.dest('./app/assets/css'));
 });
 
